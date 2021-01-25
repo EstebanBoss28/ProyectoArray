@@ -9,7 +9,6 @@ public class Main3 {
         for (int i=0; i<numero.length; i++){
             media = media + numero[i];
 
-            
         }
         System.out.println("La media de los números es " + (media/numero.length));
 
